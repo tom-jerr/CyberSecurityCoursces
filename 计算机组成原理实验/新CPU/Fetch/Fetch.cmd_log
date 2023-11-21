@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Verilog_projects/Fetch/Fetch.xst" -ofn "D:/Verilog_projects/Fetch/Fetch.syr" 
+xst -intstyle ise -ifn "D:/Verilog_projects/Fetch/Fetch.xst" -ofn "D:/Verilog_projects/Fetch/Fetch.syr" 
+xst -intstyle ise -ifn "D:/Verilog_projects/Fetch/Fetch.xst" -ofn "D:/Verilog_projects/Fetch/Fetch.syr" 
+xst -intstyle ise -ifn "D:/Verilog_projects/Fetch/Fetch.xst" -ofn "D:/Verilog_projects/Fetch/Fetch.syr" 

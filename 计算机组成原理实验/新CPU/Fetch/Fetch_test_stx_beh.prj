@@ -1,0 +1,8 @@
+verilog isim_temp "Shifter.v"
+verilog isim_temp "PC.v"
+verilog isim_temp "MUX32_2_1.v"
+verilog isim_temp "AND.v"
+verilog isim_temp "ADD.v"
+verilog isim_temp "Fetch.v"
+verilog isim_temp "Fetch_test.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

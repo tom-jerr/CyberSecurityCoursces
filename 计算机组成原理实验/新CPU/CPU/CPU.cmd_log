@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/Verilog_projects/CPU/CPU.xst" -ofn "D:/Verilog_projects/CPU/CPU.syr" 
+xst -intstyle ise -ifn "D:/Verilog_projects/CPU/CPU.xst" -ofn "D:/Verilog_projects/CPU/CPU.syr" 
+xst -intstyle ise -ifn "D:/Verilog_projects/CPU/CPU.xst" -ofn "D:/Verilog_projects/CPU/CPU.syr" 

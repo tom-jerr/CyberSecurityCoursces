@@ -1,0 +1,6 @@
+verilog work "Shifter.v"
+verilog work "PC.v"
+verilog work "MUX32_2_1.v"
+verilog work "AND.v"
+verilog work "ADD.v"
+verilog work "Fetch.v"

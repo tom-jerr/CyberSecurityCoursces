@@ -1,0 +1,46 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Verilog_projects/CPU/cpu3_isim_beh.exe -prj D:/Verilog_projects/CPU/cpu3_beh.prj work.cpu3 work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Verilog_projects/CPU/../Fetch/Shifter.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/../Fetch/PC.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/../Fetch/MUX32_2_1.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/../Fetch/AND.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/../Fetch/ADD.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/../Fetch/Fetch.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/registers.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/MUX5_2_1.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/INST_ROM.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/Extend.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/DATA_RAM.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/Control_unit.v" into library work
+WARNING:HDLCompiler:568 - "D:/Verilog_projects/CPU/Control_unit.v" Line 64: Constant value is truncated to fit in <6> bits.
+Analyzing Verilog file "D:/Verilog_projects/CPU/ALU.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/CPU.v" into library work
+Analyzing Verilog file "D:/Verilog_projects/CPU/cpu3.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC
+Compiling module AND
+Compiling module Shifter
+Compiling module ADD
+Compiling module MUX32_2_1
+Compiling module Fetch
+Compiling module INST_ROM
+Compiling module Extend
+Compiling module MUX5_2_1
+Compiling module registers
+Compiling module Control_unit
+Compiling module ALU
+Compiling module DATA_RAM
+Compiling module CPU
+Compiling module cpu3
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 9 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable D:/Verilog_projects/CPU/cpu3_isim_beh.exe
+Fuse Memory Usage: 28192 KB
+Fuse CPU Usage: 374 ms
